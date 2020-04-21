@@ -1,0 +1,8 @@
+<launch>
+	<node name="node_a" pkg="node_a" type="node_a" output="screen">
+	</node>
+
+	<node name="node_b" pkg="node_b" type="node_b" output="screen">
+	</node>
+
+</launch>
